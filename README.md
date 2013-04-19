@@ -3,6 +3,8 @@ Mitsuba
 
 Project Mitsuba is an opensource (AGPLv3 licensed) image board software written in PHP and using MySQLi.
 
+This is tentacle-chan's fork.
+
 Installation
 ------------
 
